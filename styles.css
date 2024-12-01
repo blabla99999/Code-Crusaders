@@ -1,0 +1,160 @@
+:root {
+    --ada-blue: #336178;
+    --ada-red: #ae485e;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+    background-color: #1f1f1f;
+}
+h1{
+  text-align: center;
+}
+.header {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+}
+nav {
+    text-align: center;
+}
+.sites:link, .sites:visited {
+    background-color: #191919;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+  }
+  
+.sites:hover, .sites:active {
+  background-color: #000000;
+  
+  }
+div p{
+  background-color: #939393;
+  text-align: center;
+  padding: 15px 25px;
+
+  }
+.site {
+  background-color: #191919; 
+  
+  
+}
+#aaa{
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+
+}
+h4 {
+  text-align: center;
+  color: white;
+}
+.team-members p {
+  background-color: #606060;
+  margin-bottom: 20px;
+  color: 	#E0E0E0;
+}
+h1 {
+  color: white;
+}
+#web {
+  
+
+}
+
+#img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#ofcode{
+  width: 300px;
+  height: 1000px;
+  
+  
+  box-sizing: border-box;
+}
+
+.man{
+  width: 500px;
+  
+  
+
+}
+.team-members{
+  margin: 0 auto;
+}
+#bod{
+  
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 290vh; 
+    margin: 0;
+}
+.boh{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin: 0;
+  
+}
+#vn{
+  font-style: unset;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #404040;
+  color: white;
+  text-align: center;
+  display: flex;
+    justify-content: center; 
+    align-items: center; 
+    
+    margin: 0;
+}
+.imag{
+  border-radius: 50%;
+}
+#wb{
+  display: flex;
+  justify-content: center; 
+  align-items: center;  
+  margin: 0;
+  width: 500px;
+  margin: 0 auto;
+}
+#jj{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+[class="code"]:link {
+  color: violet;
+}
+
+
+[class="code"]:visited {
+  color: violet;
+}
+#nm{
+  margin-bottom: 200px;
+
+}
